@@ -1,0 +1,16 @@
+# -- Markup --
+# These settings are required for the theme to function.
+
+[goldmark]
+[goldmark.renderer]
+  unsafe = true
+
+[highlight]
+  noClasses = true
+# style = 'doom-one2'
+# style = 'tokyonight-night'
+  style = 'nordic'
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 5
