@@ -15,7 +15,7 @@ title = "Корепанов Вячеслав"
 [params.author]
   name = "Корепанов Вячеслав"
   image = "img/author.jpg"
-  headline = "Просто человек"
+  headline = "Software developer"
   bio = "Высшее образование (ПГУТИ), 11 лет опыта разработки и поддержки ПО"
   links = [
     { email = "mailto:real93@live.ru" },
